@@ -1,0 +1,10 @@
+DROP PROCEDURE IF EXISTS ifProc1; -- 기존에 만든적이 있다면 삭제
+DELIMITER $$
+CREATE PROCEDURE ifProc1()
+BEGIN
+   IF 100 = 100 THEN  
+      SELECT '100은 100과 같습니다.';
+   END IF;
+END $$
+DELIMITER ;
+CALL ifProc1();

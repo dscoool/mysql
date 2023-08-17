@@ -1,0 +1,28 @@
+{
+  "title" : "Ms", 
+  "first" : "Phyllis", 
+  "last" : "Grey", 
+  "email" : "pgray87@studio3t.com", 
+  "dob" : ISODate("1979-07-07T15:21:30.000+0000"), 
+  "address" : {
+    "street" : {
+      "name" : "Bobwhite", 
+      "suffix" : "Circle", 
+      "number" : "37"
+    }, 
+    "city" : "Orlando", 
+    "state" : "Florida", 
+    "zip_code" : "32808"
+  }, 
+  "user_name" : "pgray87", 
+  "package" : "Premium", 
+  "prio_support" : true, 
+  "registered_on" : ISODate("2017-09-21T00:00:00.000+0000"), 
+  "transactions" : NumberInt(8), 
+  "interests" : [
+    "Technology",
+    "Gaming",
+    "Web Design"
+  ], 
+  "device" : "Apple iPhone"
+}
