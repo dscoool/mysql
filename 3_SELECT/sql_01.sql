@@ -1,4 +1,4 @@
-SELECT * FROM cctv.12_04_08_e_cctv;
+SELECT * FROM cctv.cctv;
 
 INSERT INTO `cctv`.`cctv` (`no`, `org`, `address`, `object`, `camera`, `phone`, 
 `longitude`, `latitude`, `dd`) VALUES ('800', '서울특별시 중랑구청', '서울특별시 중랑구 면목로37길 58',
@@ -15,7 +15,7 @@ INSERT INTO `cctv`.`cctv` (`no`, `org`, `address`, `object`, `camera`, `phone`,
 DELETE FROM `cctv`.`cctv` WHERE (`no` = '8');
 DELETE FROM `cctv`.`cctv` WHERE (`no` = '9');
 
-CREATE TABLE `무료와이파이정보2` (
+CREATE TABLE `wifi` (
   `번호` int DEFAULT NULL,
   `설치장소명` text,
   `설치장소상세` text,
@@ -40,12 +40,12 @@ select * from cctv.cctv; -- CTRL + ENTER --> 현재 행 실행
 DELETE FROM `cctv`.`cctv` WHERE (`no` = 83);
 
 
-SELECT * FROM cctv.12_04_08_e_cctv;
+SELECT * FROM cctv.cctv;
 
-SELECT * FROM cctv.12_04_08_e_cctv WHERE `Org` = '서울특별시 중랑구청';
-SELECT * FROM cctv.12_04_08_e_cctv WHERE `camera` = '4';
+SELECT * FROM cctv.cctv WHERE `Org` = '서울특별시 중랑구청';
+SELECT * FROM cctv.cctv WHERE `camera` = '4';
 
-SELECT * FROM cctv.12_04_07_e_무료와이파이정보;
+SELECT * FROM cctv.wifi;
 
 -- 구형 기술이지만 기업의 축적된 데이터를 조회하거나 migration(이전)할 때 이 기술을 사용합니다.
 -- 인공지능을 할 경우 본인이 직접 SQL의 데이터를 이용해서 기업의 데이터를 추출하거나 조회해야 할 경우가 있습니다!!
@@ -56,7 +56,7 @@ SELECT * FROM cctv.12_04_07_e_무료와이파이정보;
 -- 테이블 생성 2
 
 USE cctv;
-CREATE TABLE `무료와이파이정보_02` (
+CREATE TABLE `wifi` (
   `번호` int DEFAULT NULL,
   `설치장소명` text,
   `설치장소상세` text,
@@ -76,7 +76,7 @@ CREATE TABLE `무료와이파이정보_02` (
 ) ENGINE=InnoDB DEFAULT CHARSET=euckr 
 
 
-INSERT INTO `cctv`.`무료와이파이정보_02` (`번호`, `설치장소명`, `설치장소상세`, `설치시도명`, `설치시군구명`, 
+INSERT INTO `cctv`.`wifi` (`번호`, `설치장소명`, `설치장소상세`, `설치시도명`, `설치시군구명`, 
 `서비스제공사명`, `와이파이SSID`,`설치연월`,`소재지도로명주소`,`소재지지번주소`,`관리기관명`, `관리기관전화번호`,
 `WGS84위도`,`WGS84경도`,`데이터기준일자`) VALUES ('100','송촌동주민센터','3F로비(창고 앞)',
 '서울특별시','강북구','관공서', '강북구청', 
