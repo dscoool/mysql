@@ -21,7 +21,7 @@ Website MySQL: phpmyadmin
 https://www.w3schools.com/php/php_mysql_intro.asp
 
 [Python MySQL]
-(https://dev.mysql.com/doc/connector-python/en/connector-python-example-connecting.html
+(https://dev.mysql.com/doc/connector-python/en/connector-python-example-connecting.html)
 
 Values & Successful Careers
 
