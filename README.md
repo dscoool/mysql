@@ -1,4 +1,4 @@
-# SQL 데이터분석 기초
+[# SQL 데이터분석 기초](https://www.multicampus.com/em/enrolment/courseDetai?p_menu=NzUjU1VC&p_gubun=Qw==&dxLanYn=N&corsCd=FA011P&corsYr=&corsDgrCd=)
 
 MySQL 직접 따라하며 배우기
 
