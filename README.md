@@ -21,4 +21,5 @@
 [Python MySQL](https://dev.mysql.com/doc/connector-python/en/connector-python-example-connecting.html)
 
 [Values & Successful Careers](https://myurl.ai/zct9Ht)
+
 [career paper](https://docs.google.com/document/d/1HqNJF6VBQ1c9Iu8fYJ8aY26ZRbDTINjUMiBPO8O2tRE/edit?usp=sharing)
