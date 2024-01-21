@@ -11,4 +11,6 @@ https://github.com/dscoool/mysql/blob/93afbb4d1f6e9534d38b4494fb42e0e3d3babee9/6
 
 
 Values & Successful Careers
-https://myurl.ai/zct9Ht
+
+[Slide] https://myurl.ai/zct9Ht
+[질문지] https://docs.google.com/document/d/1HqNJF6VBQ1c9Iu8fYJ8aY26ZRbDTINjUMiBPO8O2tRE/edit?usp=sharing
