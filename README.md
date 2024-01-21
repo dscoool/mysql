@@ -20,8 +20,8 @@ https://www.kodeco.com/6620276-sqlite-with-swift-tutorial-getting-started
 Website MySQL: phpmyadmin
 https://www.w3schools.com/php/php_mysql_intro.asp
 
-Python MySQL
-https://www.w3schools.com/python/python_mysql_create_db.asp
+[Python MySQL]
+(https://dev.mysql.com/doc/connector-python/en/connector-python-example-connecting.html
 
 Values & Successful Careers
 
