@@ -9,3 +9,6 @@ https://github.com/dscoool/mysql/blob/93afbb4d1f6e9534d38b4494fb42e0e3d3babee9/6
 If문 예제
 https://github.com/dscoool/mysql/blob/93afbb4d1f6e9534d38b4494fb42e0e3d3babee9/6_SQL_Programming/if.sql
 
+
+Values & Successful Careers
+https://myurl.ai/zct9Ht
