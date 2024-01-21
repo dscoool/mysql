@@ -10,6 +10,19 @@ If문 예제
 https://github.com/dscoool/mysql/blob/93afbb4d1f6e9534d38b4494fb42e0e3d3babee9/6_SQL_Programming/if.sql
 
 
+연동방법
+Android SQLite
+https://developer.android.com/training/data-storage/sqlite?hl=ko
+
+iOS SQLite
+https://www.kodeco.com/6620276-sqlite-with-swift-tutorial-getting-started
+
+Website MySQL: phpmyadmin
+https://www.w3schools.com/php/php_mysql_intro.asp
+
+Python MySQL
+https://www.w3schools.com/python/python_mysql_create_db.asp
+
 Values & Successful Careers
 
 [Slide] https://myurl.ai/zct9Ht
