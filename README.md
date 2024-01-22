@@ -70,34 +70,28 @@ SQL 실습	데이터 조건조회하기 (SELECT)
 
 ### 2 일차
 
+데이터 검색하기	레코드의 개수를 세어 검색하기 (COUNT)
+
+데이터 검색하기	데이터를 그룹으로 묶어 평균, 합, 개수 구하기 (AVG, SUM, COUNT)
+
 데이터 검색하기	순서 정렬하기(ORDER BY)
 
 SELECT문, VIEW, ORDER BY, GROUP BY문 등 기초 SQL 쿼리문 실습.
 
 데이터 검색하기	뷰 생성하기 (CREATE VIEW)
 
-TABLEAU 실습(1)
-
-TABLEAU 실습(2)
-
-TABLEAU 실습(3)
-
-TABLEAU 실습(4)
-
-###  3 일차
 데이터 검색하기	그룹 별로 묶어 정렬하기 (Group By + Order BY)
-
-데이터 검색하기	데이터를 그룹으로 묶어 평균 구하기 (AVG)
 
 데이터 검색하기	VIEW 생성하기
 
-데이터 검색하기	레코드의 개수를 세어 검색하기 (COUNT)
+###  3 일차
 
 데이터 검색하기	내부 조인 (INNER JOIN) 두 테이블의 데이터를 교집합으로 가져오기
 
 데이터 검색하기	외부 조인 (OUTER JOIN) 두 테이블의 데이터를 합집합으로 가져오기
 
 데이터 검색하기	상호 조인 (CROSS JOIN) 두 테이블의 데이터를 서로 곱셈하여(X) 각각의 경우의 수로 가져오기
+
 ### 4 일차
 데이터 검색하기	SQL에서 프로그래밍하기: IF, IFELSE, CASE, FOR, 함수
 
@@ -110,6 +104,14 @@ DB 프로그래밍	IFELSE문
 DB 프로그래밍	CASE문
 
 DB 프로그래밍	CASE문
+
+TABLEAU 실습(1)
+
+TABLEAU 실습(2)
+
+TABLEAU 실습(3)
+
+TABLEAU 실습(4)
 
 ## 강의자료
 
