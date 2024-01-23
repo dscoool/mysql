@@ -1,6 +1,8 @@
 # SQL 데이터분석 기초
 
 ### 멀티캠퍼스 SQL 데이터분석 기초 오픈카톡방https://open.kakao.com/o/gOxA4s5f
+
+
 ![QR code](https://github.com/dscoool/mysql/blob/main/open_kakaotalk.jpg?raw=true)
 
 ### [멀티캠퍼스 과정 신청](https://www.multicampus.com/em/enrolment/courseDetai?p_menu=NzUjU1VC&p_gubun=Qw==&dxLanYn=N&corsCd=FA011P&corsYr=&corsDgrCd=)
