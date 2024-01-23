@@ -74,6 +74,8 @@ SQL 실습	데이터 조건조회하기 (SELECT)
 
 데이터 검색하기	데이터를 그룹으로 묶어 평균, 합, 개수 구하기 (AVG, SUM, COUNT)
 
+chatGPT         chatGPT로 SQL 쿼리문 작성 / 활용하기
+
 데이터 검색하기	순서 정렬하기(ORDER BY)
 
 SELECT문, VIEW, ORDER BY, GROUP BY문 등 기초 SQL 쿼리문 실습.
@@ -81,8 +83,6 @@ SELECT문, VIEW, ORDER BY, GROUP BY문 등 기초 SQL 쿼리문 실습.
 데이터 검색하기	뷰 생성하기 (CREATE VIEW)
 
 데이터 검색하기	그룹 별로 묶어 정렬하기 (Group By + Order BY)
-
-데이터 검색하기	VIEW 생성하기
 
 ###  3 일차
 
