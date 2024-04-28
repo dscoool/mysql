@@ -9,7 +9,8 @@ https://open.kakao.com/o/gq4YoMog
 
 MySQL 직접 따라하며 배우기
 
-IT부서에 데이터 좀 뽑아달라고 하면 눈치보이는 분위기 ... 내가 차라리 배워서 데이터 추출하고 싶으신 분? 
+IT부서에 데이터 좀 뽑아달라고 하면 눈치보이는 분위기 ... 
+내가 차라리 배워서 데이터 추출하고 싶으신 분? 
 
 단기간 과정으로 기초적인 SQL 처리법을 알려드립니다. 
 
@@ -120,7 +121,7 @@ TABLEAU 실습(4)
 
 ## 강의자료
 
-[수강목적조사(구글폼)](https://forms.gle/zMdDpyivAvckndXt5)
+[수강목적조사(구글폼)](https://forms.gle/xmnBZJGGH2HteLZe6)
 
 [교재 PDF](https://github.com/dscoool/mysql/blob/935f9df80f81b3c7b50d288ccfabf7ccc8ca6b9a/%EB%A9%80%ED%8B%B0%EC%BA%A0%ED%8D%BC%EC%8A%A4_%EB%AA%A8%EB%91%90%EC%9D%98MySQL.pdf)
 
