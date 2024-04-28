@@ -3,7 +3,7 @@
 ### SQL 데이터분석 기초(2) 오픈카톡방
 
 https://open.kakao.com/o/gq4YoMog
-![QR code](https://github.com/dscoool/mysql/blob/main/open_kakaotalk.jpg?raw=true)
+![QR code](http://)
 
 ### [멀티캠퍼스 과정 신청](https://www.multicampus.com/em/enrolment/courseDetai?p_menu=NzUjU1VC&p_gubun=Qw==&dxLanYn=N&corsCd=FA011P&corsYr=&corsDgrCd=)
 
