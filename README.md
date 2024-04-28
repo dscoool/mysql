@@ -1,5 +1,15 @@
 # SQL 데이터분석 기초
 
+
+## 강의자료
+
+[수강목적조사(구글폼)](https://forms.gle/xmnBZJGGH2HteLZe6)
+
+[교재 PDF](https://github.com/dscoool/mysql/blob/935f9df80f81b3c7b50d288ccfabf7ccc8ca6b9a/%EB%A9%80%ED%8B%B0%EC%BA%A0%ED%8D%BC%EC%8A%A4_%EB%AA%A8%EB%91%90%EC%9D%98MySQL.pdf)
+
+[chatGPT](https://github.com/dscoool/datastructure/blob/main/chatgpt.ipynb)
+
+
 ### SQL 데이터분석 기초(2) 오픈카톡방
 
 https://open.kakao.com/o/gq4YoMog
@@ -118,14 +128,6 @@ TABLEAU 실습(2)
 TABLEAU 실습(3)
 
 TABLEAU 실습(4)
-
-## 강의자료
-
-[수강목적조사(구글폼)](https://forms.gle/xmnBZJGGH2HteLZe6)
-
-[교재 PDF](https://github.com/dscoool/mysql/blob/935f9df80f81b3c7b50d288ccfabf7ccc8ca6b9a/%EB%A9%80%ED%8B%B0%EC%BA%A0%ED%8D%BC%EC%8A%A4_%EB%AA%A8%EB%91%90%EC%9D%98MySQL.pdf)
-
-[chatGPT](https://github.com/dscoool/datastructure/blob/main/chatgpt.ipynb)
 
 소프트웨어 제작시 SQL 연동 / 활용방법
 
