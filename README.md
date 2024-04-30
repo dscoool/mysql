@@ -10,7 +10,7 @@
 [chatGPT](https://github.com/dscoool/datastructure/blob/main/chatgpt.ipynb)
 
 ### 샘플 large dataset
-https://www.kaggle.com/datasets/jeromeblanchet/yale-universitys-spider-10-nlp-dataset?resource=download
+[Chinwook Dataset](https://github.com/lerocha/chinook-database)
 
 ### SQL 데이터분석 기초(2) 오픈카톡방
 
