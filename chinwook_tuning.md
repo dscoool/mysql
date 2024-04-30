@@ -78,7 +78,7 @@ FROM
 WHERE 
     total_sales > 100;
 ```
-###8. 인덱스 활용:
+### 8. 인덱스 활용:
 ```
 SELECT 
     *
