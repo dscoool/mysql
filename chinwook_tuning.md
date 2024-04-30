@@ -16,7 +16,7 @@ LEFT JOIN
 GROUP BY 
     c.customer_id;
 
-###3. 부하 분산:
+### 3. 부하 분산:
 SELECT 
     *
 FROM 
@@ -28,7 +28,7 @@ FROM
             customers
     ) AS subquery;
 
-###4. 서브쿼리 최적화:
+### 4. 서브쿼리 최적화:
 SELECT 
     e.employee_id, 
     e.first_name,
@@ -36,7 +36,7 @@ SELECT
 FROM 
     employees AS e;
 
-###5.JOIN 조건 최적화:
+### 5.JOIN 조건 최적화:
 SELECT 
     a.album_id, 
     a.title,
@@ -49,7 +49,7 @@ LEFT JOIN
 GROUP BY 
     a.album_id;
 
-###6. 부분 집합 선택:
+### 6. 부분 집합 선택:
 SELECT 
     employee_id,
     first_name,
@@ -57,7 +57,7 @@ SELECT
 FROM 
     employees;
 
-###7. 인라인 뷰 사용:
+### 7. 인라인 뷰 사용:
 SELECT 
     *
 FROM 
@@ -81,7 +81,7 @@ FROM
 WHERE 
     invoice_date BETWEEN '2013-01-01' AND '2013-12-31';
 
-###9.서브쿼리 대신 조인 사용:
+### 9.서브쿼리 대신 조인 사용:
 SELECT 
     e.employee_id, 
     e.first_name,
