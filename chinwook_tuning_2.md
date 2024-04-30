@@ -96,7 +96,7 @@ FROM
 GROUP BY 
     customer_id;
 ```
-### 19. GROUP BY 최적화:
+### 20. GROUP BY 최적화:
 ```
 SELECT 
     album_id, 
