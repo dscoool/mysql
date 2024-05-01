@@ -9,6 +9,12 @@
 
 [chatGPT](https://github.com/dscoool/datastructure/blob/main/chatgpt.ipynb)
 
+[TABLEAU]
+
+[TABLEAU DOWNLOAD](https://www.tableau.com/products/desktop))
+[ODBC CONNECTOR](https://dev.mysql.com/downloads/connector/odbc/)
+
+
 ### 샘플 large dataset
 [Chinwook Dataset](https://github.com/lerocha/chinook-database)
 
