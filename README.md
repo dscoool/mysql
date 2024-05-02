@@ -30,6 +30,7 @@
 [data5](https://github.com/dscoool/mysql/raw/main/%EC%A0%9C%EC%A3%BC%EA%B5%AD%EC%A0%9C%EC%9E%90%EC%9C%A0%EB%8F%84%EC%8B%9C%EA%B0%9C%EB%B0%9C%EC%84%BC%ED%84%B0_JDC%EC%A7%80%EC%A0%95%EB%A9%B4%EC%84%B8%EC%A0%90%20%ED%92%88%EB%AA%A9%EB%B3%84%20%EB%A7%A4%EC%B6%9C%20%EC%8B%A4%EC%A0%81_20191231.csv)
 [data6](https://github.com/dscoool/mysql/raw/main/%EC%A0%9C%EC%A3%BC%EA%B5%AD%EC%A0%9C%EC%9E%90%EC%9C%A0%EB%8F%84%EC%8B%9C%EA%B0%9C%EB%B0%9C%EC%84%BC%ED%84%B0_JDC%EC%A7%80%EC%A0%95%EB%A9%B4%EC%84%B8%EC%A0%90_%EA%B5%AD%EC%A0%81%EB%B3%84%20%EB%A7%A4%EC%B6%9C%20%EC%A0%95%EB%B3%B4_12_31_2010.csv)
 
+[data7](https://github.com/dscoool/mysql/raw/main/%EC%84%9C%EC%9A%B8%EC%8B%9C_%EC%9A%B0%EB%A6%AC%EB%A7%88%EC%9D%84%EA%B0%80%EA%B2%8C_%EC%83%81%EA%B6%8C%EB%B6%84%EC%84%9D_%EC%83%98%ED%94%8C.csv)
 [TABLEAU LAB](https://www.tableau.com/ko-kr/learn/training)
 
 ### 샘플 large dataset
