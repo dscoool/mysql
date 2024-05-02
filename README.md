@@ -18,7 +18,6 @@
 [data2](https://www.data.go.kr/data/15021141/standard.do)
 
 [tableau public profile] (https://public.tableau.com/app/profile/jaemin.jeong)
-https://public.tableau.com/app/profile/jaemin.jeong
 
 ### 샘플 large dataset
 [Chinwook Dataset](https://github.com/lerocha/chinook-database)
