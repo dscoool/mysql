@@ -21,6 +21,10 @@
 
 [tableau public profile] (https://public.tableau.com/app/profile/jaemin.jeong)
 
+[treemap chart] 
+[data3](https://github.com/dscoool/mysql/raw/main/sample_data.xlsx)
+[data4](https://github.com/dscoool/mysql/raw/main/Sample%20-%20Superstore.xls)
+[(ref)](https://jaydata.tistory.com/57#google_vignette)
 ### 샘플 large dataset
 [Chinwook Dataset](https://github.com/lerocha/chinook-database)
 
