@@ -17,6 +17,8 @@
 [data1](https://www.data.go.kr/data/15028200/standard.do)
 [data2](https://www.data.go.kr/data/15021141/standard.do)
 
+[sample dataset](https://public.tableau.com/app/learn/sample-data)
+
 [tableau public profile] (https://public.tableau.com/app/profile/jaemin.jeong)
 
 ### 샘플 large dataset
