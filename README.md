@@ -26,6 +26,7 @@
 [data4](https://github.com/dscoool/mysql/raw/main/Sample%20-%20Superstore.xls)
 [(ref)](https://jaydata.tistory.com/57#google_vignette)
 
+[heatmap chart]
 [data5](https://github.com/dscoool/mysql/raw/main/%EC%A0%9C%EC%A3%BC%EA%B5%AD%EC%A0%9C%EC%9E%90%EC%9C%A0%EB%8F%84%EC%8B%9C%EA%B0%9C%EB%B0%9C%EC%84%BC%ED%84%B0_JDC%EC%A7%80%EC%A0%95%EB%A9%B4%EC%84%B8%EC%A0%90%20%ED%92%88%EB%AA%A9%EB%B3%84%20%EB%A7%A4%EC%B6%9C%20%EC%8B%A4%EC%A0%81_20191231.csv)
 [data6](https://github.com/dscoool/mysql/raw/main/%EC%A0%9C%EC%A3%BC%EA%B5%AD%EC%A0%9C%EC%9E%90%EC%9C%A0%EB%8F%84%EC%8B%9C%EA%B0%9C%EB%B0%9C%EC%84%BC%ED%84%B0_JDC%EC%A7%80%EC%A0%95%EB%A9%B4%EC%84%B8%EC%A0%90_%EA%B5%AD%EC%A0%81%EB%B3%84%20%EB%A7%A4%EC%B6%9C%20%EC%A0%95%EB%B3%B4_12_31_2010.csv)
 ### 샘플 large dataset
