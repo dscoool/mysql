@@ -11,9 +11,11 @@
 
 [TABLEAU]
 
-[TABLEAU DOWNLOAD](https://www.tableau.com/products/desktop))
+[TABLEAU DOWNLOAD](https://public.tableau.com/app/discover)
 [ODBC CONNECTOR](https://dev.mysql.com/downloads/connector/odbc/)
 
+[data1](https://www.data.go.kr/data/15028200/standard.do)
+[data2](https://www.data.go.kr/data/15021141/standard.do)
 
 ### 샘플 large dataset
 [Chinwook Dataset](https://github.com/lerocha/chinook-database)
