@@ -175,7 +175,7 @@
       <column caption='Type' datatype='string' name='[type]' role='dimension' type='nominal' />
       <column caption='Visit' datatype='integer' name='[visit]' role='measure' type='quantitative' />
       <extract _.fcp.ObjectModelExtractV2.true...object-id='' _.fcp.VConnDownstreamExtractsWithWarnings.true...user-specific='false' count='-1' enabled='true' units='records'>
-        <connection access_mode='readonly' author-locale='ko_KR' class='hyper' dbname='C:/Users/student/AppData/Local/Temp/TableauTemp/#TableauTemp_0wdffq412kvdbh1eg6mwb1uj738i.hyper' default-settings='hyper' schema='Extract' sslmode='' tablename='Extract' update-time='05/03/2024 12:10:00 AM' username='tableau_internal_user'>
+        <connection access_mode='readonly' author-locale='ko_KR' class='hyper' dbname='C:/Users/student/AppData/Local/Temp/TableauTemp/#TableauTemp_18fwqos0zo11nt1ah2r0d1kknme1.hyper' default-settings='hyper' schema='Extract' sslmode='' tablename='Extract' update-time='05/03/2024 01:05:27 AM' username='tableau_internal_user'>
           <_.fcp.ObjectModelEncapsulateLegacy.false...relation name='Extract' table='[Extract].[Extract]' type='table' />
           <_.fcp.ObjectModelEncapsulateLegacy.true...relation name='Extract' table='[Extract].[Extract]' type='table' />
           <metadata-records>
@@ -296,6 +296,68 @@
     </datasource>
   </datasources>
   <worksheets>
+    <worksheet name='BOXPLOT(1)'>
+      <layout-options>
+        <title>
+          <formatted-text>
+            <run bold='true' fontcolor='#e15759' fontname='맑은 고딕' fontsize='16'>BOXPLOT</run>
+          </formatted-text>
+        </title>
+      </layout-options>
+      <table>
+        <view>
+          <datasources>
+            <datasource caption='Sheet1(sample_data (1))' name='federated.1ei4b6k0cg7rc01gtuie71r6kahr' />
+          </datasources>
+          <datasource-dependencies datasource='federated.1ei4b6k0cg7rc01gtuie71r6kahr'>
+            <column-instance column='[product]' derivation='None' name='[none:product:nk]' pivot='key' type='nominal' />
+            <column caption='Product' datatype='string' name='[product]' role='dimension' type='nominal' />
+            <column caption='Sales' datatype='integer' name='[sales]' role='measure' type='quantitative' />
+            <column-instance column='[sales]' derivation='Sum' name='[sum:sales:qk]' pivot='key' type='quantitative' />
+          </datasource-dependencies>
+          <aggregation value='true' />
+        </view>
+        <style>
+          <style-rule element='axis'>
+            <format attr='title' class='0' field='[federated.1ei4b6k0cg7rc01gtuie71r6kahr].[sum:sales:qk]' scope='rows' value='' />
+          </style-rule>
+          <style-rule element='cell'>
+            <format attr='width' value='63' />
+          </style-rule>
+          <style-rule element='refboxplot'>
+            <format attr='palette' id='refline0' value='bp_red' />
+            <format attr='opacity' id='refline0' value='198' />
+            <format attr='stroke-color' id='refline0' value='#e15759' />
+            <format attr='whisker-stroke-size' id='refline0' value='1' />
+            <format attr='whisker-stroke-color' id='refline0' value='#e15759' />
+          </style-rule>
+        </style>
+        <panes>
+          <pane selection-relaxation-option='selection-relaxation-allow'>
+            <view>
+              <breakdown value='auto' />
+            </view>
+            <mark class='Circle' />
+            <encodings>
+              <lod column='[federated.1ei4b6k0cg7rc01gtuie71r6kahr].[none:product:nk]' />
+            </encodings>
+            <reference-line axis-column='[federated.1ei4b6k0cg7rc01gtuie71r6kahr].[sum:sales:qk]' boxplot-mark-exclusion='false' boxplot-whisker-type='standard' enable-instant-analytics='true' formula='average' id='refline0' label-type='automatic' probability='95' scope='per-cell' symmetric='false' value-column='[federated.1ei4b6k0cg7rc01gtuie71r6kahr].[sum:sales:qk]' z-order='1' />
+            <style>
+              <style-rule element='mark'>
+                <format attr='size' value='0.25' />
+              </style-rule>
+              <style-rule element='pane'>
+                <format attr='minwidth' value='-1' />
+                <format attr='maxwidth' value='-1' />
+              </style-rule>
+            </style>
+          </pane>
+        </panes>
+        <rows>[federated.1ei4b6k0cg7rc01gtuie71r6kahr].[sum:sales:qk]</rows>
+        <cols />
+      </table>
+      <simple-id uuid='{E1E67020-A38E-4203-999B-81BCE48C642C}' />
+    </worksheet>
     <worksheet name='boxplot'>
       <layout-options>
         <title>
@@ -436,8 +498,8 @@
         <devicelayout auto-generated='true' name='Phone'>
           <size maxheight='700' minheight='700' sizing-mode='vscroll' />
           <zones>
-            <zone h='100000' id='11' type-v2='layout-basic' w='100000' x='0' y='0'>
-              <zone h='97892' id='10' param='vert' type-v2='layout-flow' w='97538' x='1231' y='1054'>
+            <zone h='100000' id='13' type-v2='layout-basic' w='100000' x='0' y='0'>
+              <zone h='97892' id='12' param='vert' type-v2='layout-flow' w='97538' x='1231' y='1054'>
                 <zone fixed-size='280' h='97892' id='3' is-fixed='true' name='boxplot' w='48769' x='1231' y='1054'>
                   <zone-style>
                     <format attr='border-color' value='#000000' />
@@ -511,8 +573,8 @@
         <devicelayout auto-generated='true' name='Phone'>
           <size maxheight='700' minheight='700' sizing-mode='vscroll' />
           <zones>
-            <zone h='100000' id='13' type-v2='layout-basic' w='100000' x='0' y='0'>
-              <zone h='97892' id='12' param='vert' type-v2='layout-flow' w='97538' x='1231' y='1054'>
+            <zone h='100000' id='15' type-v2='layout-basic' w='100000' x='0' y='0'>
+              <zone h='97892' id='14' param='vert' type-v2='layout-flow' w='97538' x='1231' y='1054'>
                 <zone fixed-size='280' h='57312' id='5' is-fixed='true' name='카페' w='97538' x='1231' y='1054'>
                   <layout-cache type-h='fixed' type-w='fixed' />
                   <zone-style>
@@ -631,7 +693,7 @@
       <active id='7' />
       <simple-id uuid='{27E2096E-4649-422D-825A-A30585EA0F61}' />
     </window>
-    <window class='dashboard' maximized='true' name='대시보드 1 (2)'>
+    <window class='dashboard' name='대시보드 1 (2)'>
       <viewpoints>
         <viewpoint name='boxplot'>
           <zoom type='entire-view' />
@@ -647,8 +709,101 @@
       <active id='-1' />
       <simple-id uuid='{90542AA2-E853-47E7-8FBF-3C1B5ED9A59F}' />
     </window>
+    <window class='worksheet' maximized='true' name='BOXPLOT(1)'>
+      <cards>
+        <edge name='left'>
+          <strip size='160'>
+            <card type='pages' />
+            <card type='filters' />
+            <card type='marks' />
+          </strip>
+        </edge>
+        <edge name='top'>
+          <strip size='2147483647'>
+            <card type='columns' />
+          </strip>
+          <strip size='2147483647'>
+            <card type='rows' />
+          </strip>
+          <strip size='30'>
+            <card type='title' />
+          </strip>
+        </edge>
+      </cards>
+      <viewpoint>
+        <highlight>
+          <color-one-way>
+            <field>[federated.1ei4b6k0cg7rc01gtuie71r6kahr].[none:product:nk]</field>
+          </color-one-way>
+        </highlight>
+      </viewpoint>
+      <simple-id uuid='{79350F8B-26A6-4E41-910F-E1A72D150A7F}' />
+    </window>
   </windows>
   <thumbnails>
+    <thumbnail height='192' name='BOXPLOT(1)' width='112'>
+      iVBORw0KGgoAAAANSUhEUgAAAHAAAADACAYAAADcKuc+AAAACXBIWXMAABYlAAAWJQFJUiTw
+      AAAMeElEQVR4nO2dfXAU5R3HP3JGLgkxBzmMBxgP4wvEUNHVgCkoM4lvDEHwrDDRVCMOzFB1
+      YGAaylACjC+p0whVpAVLHU1NEcxoCTICZpTKELCsgyVSiwYjwgViAhcS7gLnYv8ILybZC3eX
+      TeCB3+cv2H329sl+8vxud7PPdy/76aeffkJQll7nuwNC1xCBiiMCFUcEKo4IVBwRqDgiUHEu
+      P98d6Cp+v990uWEYPdyT88NlF+OFvN/vJy4u7nx3o0eQEqo4IlBxRKDiiEDFEYGKE/5lRPAg
+      29aUsH7Hdxw6FgSbHefgEeTk/YqRV8e0aWo0fkXFqjI27T7A0RYDYuJJGXY/nslZDEm0nWnn
+      LV/AwnW14BpH4YIcBoTYta/iJQpWVwMaU5dPRYviB71YCUtgYPc7FC3Xcdw1macWpDHwSju2
+      4GG++fht/ryoiMPzfs/YU0ff+8lilrznY+hDecx+7FqS42MwWg7wxbt/45VF3zP1uSkMjz37
+      2a5xjzOsciO6N4cBpgZ96LqXTM9Yvi071PWf+CIjrBJ6pO5y7pn3IjM9t5FypR0bQEw/rr93
+      OvkjGti8pfpUS4M6fwpPPb+Q/LuvJzm+dWTa7AO57bHpTHB+xmY90O7T3WjaCXTda75zn47u
+      vRUtTaq9GWEdlQFjPIzqbzNZY8PhuJKmpqYz/x8+1sONfcw+xYHDAUePHu2wxq1pnNB1zBT6
+      dB3vrRpDxZ8pXTssRjVbt9czdOhN527bXEnlriTS0pI7rnPfyZ3odByEreVTuyMds18foQsC
+      jcYvKCksZrt7CvmZsZ22DX63keLCUo4+MJ0JbrMWA9A0qKysabvYp6N7NbS0aHt58RPFzWyD
+      Hz57i6Vv6ZA5jfmTbsG0YgLQzJ7y1/nrhlpc4wuYc++gkCNpQGYmCcU6NR437lPLfLpOQ6YH
+      8ReayAQGD7L59Zd5Z7eDrKefZ8KQxJBCjMaveP+1pVT40pg073nubnep0YEkDS2hGL3Gg9sN
+      reWzAc2TGlEXLzXCF9hcRUnRMnb2nUDB4nu5thMfxv4Kliwu48jwabxYcAuJYX2BJaFpCRTr
+      NXjc7tby6cvgEfHXKWF+BzZQsWwZO1OeYP6MzuVh7KZ0cRn+uwoozAtXXitJmkaCrlNDa/n0
+      adqZciqYE5ZAo2od5d4R5E/JOKeQhop/ssU5gekPXss5imZHkjLIcOjoNT503YemuSP9hEuO
+      sATu2r6d3pmjSD/naDrE9u01pI0eTVJU3XGgaQ70ijJ0n4b4OzdhfAcanDhh4Kt4iWkVIZpo
+      U1k+VQOCBIOwu2QG00rMm7rGFbIgJ9RdT3BkZpK8uoQj4wqlfIaBPFKhOHKDSnFEoOKIQMUR
+      gYojAhVHBCqO8o/WXyg0+Y9T+lEV/9l7iF9cl0xudjoJcb27fb9yHWgBTf7jzHh1A/WNZ+dp
+      OBPjWPLMfd0uUUqoBZR+VNVGHkB9o5/Sj6q6fd8yAk3YNznXwt6ET8qq0oi3kRGoODICLWD5
+      Wp31274G4NW9a3nmuvEAjB15A9PGd+9jyDICLSA3Ox1nYttfGGdiHLnZ6d2+b7mMsICEuN4s
+      eea+1pOWva0j79F7htEn9opu37eUUIvZNzk3qpORaJESqjgiUHFEoOKIQMURgYojAhVHBCqO
+      CFQcEag4IlBxRKDidEtODMYPfPbWClbp+zgWtGF3DiH78SfJaZd+IDkxXcfynBjwsv6F56hw
+      TGLWH0cx0H6Sw5+v4uUlhfiefom8tLZTnCQnpmtYnBMDga1lrAuMYfr0uxlotwEx9Lstjzm5
+      KVSuXm8SJSI5MV3B4pyYAPq/q7hmTBap7Zr3uXMUw+vMokQkJ6YrWJwT48XrdZCaajK905ZK
+      qruW/ftNopAlJyZqLM6J8eHzxRJrGhvTmtR06JDZ95jkxERLN+fEhE+0OTGhQs/PlvWepyf3
+      3W05MRETZU6M2aMTfr+fhIQEq3oWEUegR/cdfgltrqJk4SLWBrIpWDwXj6k8Bw5HgED7QEKg
+      tbxCcrJJVhpwOidG12tONW/NicmQnJhOsTgnxk1qahPV1Q0dVxnVVNe4GDQo9JiVnJjIsTgn
+      xkZa+lC+/6SC6nYnm82VW9h5TSaZoQMqJCcmCizOiYHYzFw8jk9YtmwzB1oMIMjhz0soWlVP
+      1iNZ58iPkZyYSLE4JwYgiaxZC0l4awXFs0vP3gt9toCc9lf3JkhOTGTIg70WIw/2ChEhAhVH
+      BCqOCFQcEag4ItAimvzHWb5WB1pn7Db5j/fIfkWgBZyOGTk9zXr9tq+Z8eqGHpEoAi1AYkYs
+      5lKKGZE58iZc+bAnovbf1h7heLDjoyK9Y2wMdvW1qlumSAm1gDi7eZhBqOVWIgItwJkYS4yt
+      7Y36GJsNZ2Ln75SyAimhFmDr1Qu3K5H6xgD+lhPE2a/AmRiHrddl3b5vEWgRtl69SO4bD8T3
+      6H6lhCqOCFQcEag4IlBxRKDiiEDFEYGKIwIVRwQqjghUHBGoOCJQcUSg4ohAxRGBiiMCFUcE
+      Ko4IVBwRqDgiUHFEoOKIQMURgYojAhUnwgd7gxz+8mPWrF5L7e1zWZBjHrsUPLiNNSXlbP+2
+      nhYDYuJTGHa/h8lZQ9okPUlmdtcJU+BpcR+w2zacX7riqQ3R0thfTlHRdgY8No0XZqQQH2PQ
+      Uv8VH6xYyqKafBZO1drEU0pmdtcIr4R6N/FmeT23TP0DL8/PZ9TAUJM2AlSWrePy8TOZMjKF
+      +BgAG3bnzXhm5nPT7jI21LTfRjKzu0J4R2XAWGbOyWXkQPs58kGPcOQIJCWZJKLFunA5Gmgw
+      CTKUzOzosfiwJDN4cCw11dV0mO7YvJe9de5TYa7tkMzsqLFYoI10Tx6pO5azpPxLDgcBDFoO
+      bGNl0Vp+9OSRZRpXKJnZ0WL99LI+GlMWJbHxL6/xu6ePti7r3Z/RTxYya3joqVcXUma2YZgk
+      6/cA0fTZcoHG/gqWvPYv+j34DC//5uxZ6KY3FzJv16+Zk5duHpJ+AWVm+2znp2BH02eLS+j/
+      eGdxOc5H55Pf7iw0Z1YBd+1fxhtbTQO1kczs6LBWoHcPe5rTSDeN9k0iPf0qqqp2h9xcMrMj
+      x1qBfZNIslWzZ4/Zd0gDVVW1uFyu0NtLZnbEWCswdgQTH+jDp8uXUPb5AVoMAIOW+m/YvHIx
+      79dnMCG7s9RzycyOlLBOYs7cs2zDQqatO/3v0/cobQzKmcuLN1SwqqyY2cuPEQRsdieDR+Qw
+      v2gk7V812B7JzI4MidoywfdumYW9CR9HhAlRIH9OUh4RqDgiUHFEoOKIQMURgYojAhVHBCqO
+      CFQcEag4IlBxRKDiiEDFEYGKIwIVRwQqjghUHBGoOCJQceTNLRZhnDzZ7tU7sdh6df/4EIEW
+      YJw8SU1tI8FTcyqOBwM0+0/gdiV2u0QpoRZQ3xg4I+80QcOgvjHUNALrEIEW4G85EdFyKxGB
+      iiMCLSC2t/nj5qGWW4mcxJiw5+1/RNT+4OFmfM0tHZY7+tg52s90NqQpGfJk9vkhcDwY0XIr
+      EYGKIwItQN5irTjyFmvFkbdYXwTIW6yFqBCBiiMCFUcEKo4IVBwRqDgiUHG6JfQcoHnPRt5e
+      8yG79h0jSAzxyddy+7gnmJTR/0x4q4Sedx3LQ88BmvUVFJY2MebJuTw+xIndFuTYvl18WPlf
+      6jP6k/yzthJ63jUsDj0HAlt5441DjJk5g5ybndhtADHEp9yGZ9JdbeS1IqHnXcHi0HNo+HQz
+      1XdMZOyg8ENTJfQ8eiw+LD527vyetPShkYWUS+h51Fh8M9uL13sVTvu3bC59j4od33HoWBBs
+      dpxDssl7fCxDEs1UtIaeL62sIcfjPrv4VOj5uDQwHZ6C1QIDBAJ17CirIPveiTz70GCcdhvB
+      Y/vQV63glUW1TFk4Fc3kMREJPb9AQs/hKrKfmsbPrzBi4lMYOWUOP/7pt5R/7EUzu/y4gELP
+      bZdu6LkLl6uOujqzdX247rqrqK0NdQEioefRYLHAAaSmXsGuXaGDzTtDQs8jx/KT87TRo4mr
+      3MSW5vZrGqiqquPGGzsZUhJ6HjHWX125JzAl6wdWFa1k24EWDMBoOcC2lYtZ++MDTBrt6GRj
+      CT2PFItDzwFspHoKmTfw76wsns0bx4IQE0+K9gjz5ozk6nOcH0joeWRI6LkJn0182MLehE/G
+      e+9GvI3coFIcEag4IlBxRKDiiEDFEYGKIwIVRwQqjghUHBGoOCJQcUSg4ohAxRGBiiMCFUcE
+      Ko4IVBwRqDj/B0uGbxodndXlAAAAAElFTkSuQmCC
+    </thumbnail>
     <thumbnail height='192' name='boxplot' width='147'>
       iVBORw0KGgoAAAANSUhEUgAAAJMAAADACAYAAAAA/1FMAAAACXBIWXMAABYlAAAWJQFJUiTw
       AAANI0lEQVR4nO3df3DUdX7H8ScuqQkhuvmBIYGLm4snEMKIrAeYgjKG0pMhd3jbimPNacSB
