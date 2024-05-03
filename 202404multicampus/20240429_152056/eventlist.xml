@@ -1,0 +1,323 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<event-list identifier="EverLec" version="0.1">
+  <event index="1" type="windowcapturestart" time="0.73">
+    <title><![CDATA[EverLec]]></title>
+    <file-path><![CDATA[C:\Program Files (x86)\Xinics\EverLec\EverLec.exe]]></file-path>
+  </event>
+  <event index="2" type="windowcaptureend" time="0.80">
+    <title><![CDATA[EverLec]]></title>
+    <file-path><![CDATA[C:\Program Files (x86)\Xinics\EverLec\EverLec.exe]]></file-path>
+  </event>
+  <event index="3" type="windowcapturestart" time="0.80">
+    <title><![CDATA[EverLec]]></title>
+    <file-path><![CDATA[C:\Program Files (x86)\Xinics\EverLec\EverLec.exe]]></file-path>
+  </event>
+  <event index="4" type="windowcaptureend" time="2.07">
+    <title><![CDATA[EverLec]]></title>
+    <file-path><![CDATA[C:\Program Files (x86)\Xinics\EverLec\EverLec.exe]]></file-path>
+  </event>
+  <event index="5" type="windowforgroundevent" time="2.07">
+    <title><![CDATA[돋보기]]></title>
+    <file-path><![CDATA[C:\Windows\System32\Magnify.exe]]></file-path>
+  </event>
+  <event index="6" type="windowcapturestart" time="2.33">
+    <title><![CDATA[EverLec]]></title>
+    <file-path><![CDATA[C:\Program Files (x86)\Xinics\EverLec\EverLec.exe]]></file-path>
+  </event>
+  <event index="7" type="windowcaptureend" time="2.47">
+    <title><![CDATA[EverLec]]></title>
+    <file-path><![CDATA[C:\Program Files (x86)\Xinics\EverLec\EverLec.exe]]></file-path>
+  </event>
+  <event index="8" type="windowforgroundevent" time="2.47">
+    <title><![CDATA[돋보기]]></title>
+    <file-path><![CDATA[C:\Windows\System32\Magnify.exe]]></file-path>
+  </event>
+  <event index="9" type="windowcapturestart" time="2.47">
+    <title><![CDATA[EverLec]]></title>
+    <file-path><![CDATA[C:\Program Files (x86)\Xinics\EverLec\EverLec.exe]]></file-path>
+  </event>
+  <event index="10" type="windowcaptureend" time="2.60">
+    <title><![CDATA[EverLec]]></title>
+    <file-path><![CDATA[C:\Program Files (x86)\Xinics\EverLec\EverLec.exe]]></file-path>
+  </event>
+  <event index="11" type="windowforgroundevent" time="2.60">
+    <title><![CDATA[돋보기]]></title>
+    <file-path><![CDATA[C:\Windows\System32\Magnify.exe]]></file-path>
+  </event>
+  <event index="12" type="windowcapturestart" time="3.20">
+    <title><![CDATA[EverLec]]></title>
+    <file-path><![CDATA[C:\Program Files (x86)\Xinics\EverLec\EverLec.exe]]></file-path>
+  </event>
+  <event index="13" type="windowcaptureend" time="3.33">
+    <title><![CDATA[EverLec]]></title>
+    <file-path><![CDATA[C:\Program Files (x86)\Xinics\EverLec\EverLec.exe]]></file-path>
+  </event>
+  <event index="14" type="windowforgroundevent" time="3.33">
+    <title><![CDATA[돋보기]]></title>
+    <file-path><![CDATA[C:\Windows\System32\Magnify.exe]]></file-path>
+  </event>
+  <event index="15" type="windowforgroundevent" time="43.07">
+    <title><![CDATA[MySQL Workbench]]></title>
+    <file-path><![CDATA[C:\Config.Msi\9bf1bb.rbf]]></file-path>
+  </event>
+  <event index="16" type="windowcapturestart" time="43.07">
+    <title><![CDATA[MySQL Workbench]]></title>
+    <file-path><![CDATA[C:\Config.Msi\9bf1bb.rbf]]></file-path>
+  </event>
+  <event index="17" type="windowcaptureend" time="43.20">
+    <title><![CDATA[MySQL Workbench]]></title>
+    <file-path><![CDATA[C:\Config.Msi\9bf1bb.rbf]]></file-path>
+  </event>
+  <event index="18" type="windowmousewheel" time="45.07">
+    <title><![CDATA[MySQL Workbench]]></title>
+    <file-path><![CDATA[C:\Config.Msi\9bf1bb.rbf]]></file-path>
+  </event>
+  <event index="19" type="windowmousewheel" time="45.67">
+    <title><![CDATA[MySQL Workbench]]></title>
+    <file-path><![CDATA[C:\Config.Msi\9bf1bb.rbf]]></file-path>
+  </event>
+  <event index="20" type="windowcapturestart" time="51.67">
+    <title><![CDATA[MySQL Workbench]]></title>
+    <file-path><![CDATA[C:\Config.Msi\9bf1bb.rbf]]></file-path>
+  </event>
+  <event index="21" type="windowcaptureend" time="51.80">
+    <title><![CDATA[MySQL Workbench]]></title>
+    <file-path><![CDATA[C:\Config.Msi\9bf1bb.rbf]]></file-path>
+  </event>
+  <event index="22" type="windowforgroundevent" time="66.00">
+    <title><![CDATA[4_MySQL SELECT__VIEW [제한된 보기] - PowerPoint]]></title>
+    <file-path><![CDATA[C:\Program Files\Microsoft Office\Office16\POWERPNT.EXE]]></file-path>
+  </event>
+  <event index="23" type="windowforgroundevent" time="70.87">
+    <title><![CDATA[2_MySQL 테이블 생성_v3.0 - PowerPoint]]></title>
+    <file-path><![CDATA[C:\Program Files\Microsoft Office\Office16\POWERPNT.EXE]]></file-path>
+  </event>
+  <event index="24" type="windowtitlechanged" time="71.00">
+    <title><![CDATA[2_MySQL 테이블 생성_v3.0 - PowerPoint]]></title>
+    <file-path><![CDATA[C:\Program Files\Microsoft Office\Office16\POWERPNT.EXE]]></file-path>
+  </event>
+  <event index="25" type="windowcapturestart" time="71.87">
+    <title><![CDATA[2_MySQL 테이블 생성_v3.0 - PowerPoint]]></title>
+    <file-path><![CDATA[C:\Program Files\Microsoft Office\Office16\POWERPNT.EXE]]></file-path>
+  </event>
+  <event index="26" type="windowcaptureend" time="72.00">
+    <title><![CDATA[2_MySQL 테이블 생성_v3.0 - PowerPoint]]></title>
+    <file-path><![CDATA[C:\Program Files\Microsoft Office\Office16\POWERPNT.EXE]]></file-path>
+  </event>
+  <event index="27" type="windowcapturestart" time="73.00">
+    <title><![CDATA[2_MySQL 테이블 생성_v3.0 - PowerPoint]]></title>
+    <file-path><![CDATA[C:\Program Files\Microsoft Office\Office16\POWERPNT.EXE]]></file-path>
+  </event>
+  <event index="28" type="windowcaptureend" time="73.07">
+    <title><![CDATA[2_MySQL 테이블 생성_v3.0 - PowerPoint]]></title>
+    <file-path><![CDATA[C:\Program Files\Microsoft Office\Office16\POWERPNT.EXE]]></file-path>
+  </event>
+  <event index="29" type="windowcapturestart" time="74.27">
+    <title><![CDATA[2_MySQL 테이블 생성_v3.0 - PowerPoint]]></title>
+    <file-path><![CDATA[C:\Program Files\Microsoft Office\Office16\POWERPNT.EXE]]></file-path>
+  </event>
+  <event index="30" type="windowcaptureend" time="74.33">
+    <title><![CDATA[2_MySQL 테이블 생성_v3.0 - PowerPoint]]></title>
+    <file-path><![CDATA[C:\Program Files\Microsoft Office\Office16\POWERPNT.EXE]]></file-path>
+  </event>
+  <event index="31" type="windowkeyup" time="78.47">
+    <title><![CDATA[PowerPoint 슬라이드 쇼 - [2_MySQL 테이블 생성_v3.0]]]></title>
+    <file-path><![CDATA[C:\Program Files\Microsoft Office\Office16\POWERPNT.EXE]]></file-path>
+  </event>
+  <event index="32" type="windowtitlechanged" time="78.53">
+    <title><![CDATA[PowerPoint 슬라이드 쇼 - [2_MySQL 테이블 생성_v3.0]]]></title>
+    <file-path><![CDATA[C:\Program Files\Microsoft Office\Office16\POWERPNT.EXE]]></file-path>
+  </event>
+  <event index="33" type="windowkeyup" time="78.67">
+    <title><![CDATA[PowerPoint 슬라이드 쇼 - [2_MySQL 테이블 생성_v3.0]]]></title>
+    <file-path><![CDATA[C:\Program Files\Microsoft Office\Office16\POWERPNT.EXE]]></file-path>
+  </event>
+  <event index="34" type="windowkeyup" time="78.73">
+    <title><![CDATA[PowerPoint 슬라이드 쇼 - [2_MySQL 테이블 생성_v3.0]]]></title>
+    <file-path><![CDATA[C:\Program Files\Microsoft Office\Office16\POWERPNT.EXE]]></file-path>
+  </event>
+  <event index="35" type="windowkeyup" time="78.93">
+    <title><![CDATA[PowerPoint 슬라이드 쇼 - [2_MySQL 테이블 생성_v3.0]]]></title>
+    <file-path><![CDATA[C:\Program Files\Microsoft Office\Office16\POWERPNT.EXE]]></file-path>
+  </event>
+  <event index="36" type="windowkeyup" time="80.00">
+    <title><![CDATA[PowerPoint 슬라이드 쇼 - [2_MySQL 테이블 생성_v3.0]]]></title>
+    <file-path><![CDATA[C:\Program Files\Microsoft Office\Office16\POWERPNT.EXE]]></file-path>
+  </event>
+  <event index="37" type="windowkeyup" time="80.27">
+    <title><![CDATA[PowerPoint 슬라이드 쇼 - [2_MySQL 테이블 생성_v3.0]]]></title>
+    <file-path><![CDATA[C:\Program Files\Microsoft Office\Office16\POWERPNT.EXE]]></file-path>
+  </event>
+  <event index="38" type="windowkeyup" time="80.47">
+    <title><![CDATA[PowerPoint 슬라이드 쇼 - [2_MySQL 테이블 생성_v3.0]]]></title>
+    <file-path><![CDATA[C:\Program Files\Microsoft Office\Office16\POWERPNT.EXE]]></file-path>
+  </event>
+  <event index="39" type="windowkeyup" time="80.80">
+    <title><![CDATA[PowerPoint 슬라이드 쇼 - [2_MySQL 테이블 생성_v3.0]]]></title>
+    <file-path><![CDATA[C:\Program Files\Microsoft Office\Office16\POWERPNT.EXE]]></file-path>
+  </event>
+  <event index="40" type="windowkeyup" time="81.00">
+    <title><![CDATA[PowerPoint 슬라이드 쇼 - [2_MySQL 테이블 생성_v3.0]]]></title>
+    <file-path><![CDATA[C:\Program Files\Microsoft Office\Office16\POWERPNT.EXE]]></file-path>
+  </event>
+  <event index="41" type="windowkeyup" time="81.47">
+    <title><![CDATA[PowerPoint 슬라이드 쇼 - [2_MySQL 테이블 생성_v3.0]]]></title>
+    <file-path><![CDATA[C:\Program Files\Microsoft Office\Office16\POWERPNT.EXE]]></file-path>
+  </event>
+  <event index="42" type="windowkeyup" time="82.00">
+    <title><![CDATA[PowerPoint 슬라이드 쇼 - [2_MySQL 테이블 생성_v3.0]]]></title>
+    <file-path><![CDATA[C:\Program Files\Microsoft Office\Office16\POWERPNT.EXE]]></file-path>
+  </event>
+  <event index="43" type="windowkeyup" time="82.53">
+    <title><![CDATA[PowerPoint 슬라이드 쇼 - [2_MySQL 테이블 생성_v3.0]]]></title>
+    <file-path><![CDATA[C:\Program Files\Microsoft Office\Office16\POWERPNT.EXE]]></file-path>
+  </event>
+  <event index="44" type="windowkeyup" time="82.67">
+    <title><![CDATA[PowerPoint 슬라이드 쇼 - [2_MySQL 테이블 생성_v3.0]]]></title>
+    <file-path><![CDATA[C:\Program Files\Microsoft Office\Office16\POWERPNT.EXE]]></file-path>
+  </event>
+  <event index="45" type="windowkeyup" time="83.33">
+    <title><![CDATA[PowerPoint 슬라이드 쇼 - [2_MySQL 테이블 생성_v3.0]]]></title>
+    <file-path><![CDATA[C:\Program Files\Microsoft Office\Office16\POWERPNT.EXE]]></file-path>
+  </event>
+  <event index="46" type="windowforgroundevent" time="119.73">
+    <title><![CDATA[2_MySQL 테이블 생성_v3.0 - PowerPoint]]></title>
+    <file-path><![CDATA[C:\Program Files\Microsoft Office\Office16\POWERPNT.EXE]]></file-path>
+  </event>
+  <event index="47" type="windowtitlechanged" time="120.00">
+    <title><![CDATA[2_MySQL 테이블 생성_v3.0 - PowerPoint]]></title>
+    <file-path><![CDATA[C:\Program Files\Microsoft Office\Office16\POWERPNT.EXE]]></file-path>
+  </event>
+  <event index="48" type="windowcapturestart" time="121.33">
+    <title><![CDATA[2_MySQL 테이블 생성_v3.0 - PowerPoint]]></title>
+    <file-path><![CDATA[C:\Program Files\Microsoft Office\Office16\POWERPNT.EXE]]></file-path>
+  </event>
+  <event index="49" type="windowcaptureend" time="121.47">
+    <title><![CDATA[2_MySQL 테이블 생성_v3.0 - PowerPoint]]></title>
+    <file-path><![CDATA[C:\Program Files\Microsoft Office\Office16\POWERPNT.EXE]]></file-path>
+  </event>
+  <event index="50" type="windowforgroundevent" time="124.73">
+    <title><![CDATA[4_MySQL SELECT__VIEW [제한된 보기] - PowerPoint]]></title>
+    <file-path><![CDATA[C:\Program Files\Microsoft Office\Office16\POWERPNT.EXE]]></file-path>
+  </event>
+  <event index="51" type="windowtitlechanged" time="125.00">
+    <title><![CDATA[4_MySQL SELECT__VIEW [제한된 보기] - PowerPoint]]></title>
+    <file-path><![CDATA[C:\Program Files\Microsoft Office\Office16\POWERPNT.EXE]]></file-path>
+  </event>
+  <event index="52" type="windowcapturestart" time="125.60">
+    <title><![CDATA[4_MySQL SELECT__VIEW [제한된 보기] - PowerPoint]]></title>
+    <file-path><![CDATA[C:\Program Files\Microsoft Office\Office16\POWERPNT.EXE]]></file-path>
+  </event>
+  <event index="53" type="windowcaptureend" time="125.73">
+    <title><![CDATA[4_MySQL SELECT__VIEW [제한된 보기] - PowerPoint]]></title>
+    <file-path><![CDATA[C:\Program Files\Microsoft Office\Office16\POWERPNT.EXE]]></file-path>
+  </event>
+  <event index="54" type="windowforgroundevent" time="125.73">
+    <title><![CDATA[2_MySQL 테이블 생성_v3.0 - PowerPoint]]></title>
+    <file-path><![CDATA[C:\Program Files\Microsoft Office\Office16\POWERPNT.EXE]]></file-path>
+  </event>
+  <event index="55" type="windowtitlechanged" time="126.00">
+    <title><![CDATA[2_MySQL 테이블 생성_v3.0 - PowerPoint]]></title>
+    <file-path><![CDATA[C:\Program Files\Microsoft Office\Office16\POWERPNT.EXE]]></file-path>
+  </event>
+  <event index="56" type="windowcapturestart" time="127.00">
+    <title><![CDATA[2_MySQL 테이블 생성_v3.0 - PowerPoint]]></title>
+    <file-path><![CDATA[C:\Program Files\Microsoft Office\Office16\POWERPNT.EXE]]></file-path>
+  </event>
+  <event index="57" type="windowcaptureend" time="127.07">
+    <title><![CDATA[2_MySQL 테이블 생성_v3.0 - PowerPoint]]></title>
+    <file-path><![CDATA[C:\Program Files\Microsoft Office\Office16\POWERPNT.EXE]]></file-path>
+  </event>
+  <event index="58" type="windowforgroundevent" time="127.13">
+    <title><![CDATA[MySQL Workbench]]></title>
+    <file-path><![CDATA[C:\Config.Msi\9bf1bb.rbf]]></file-path>
+  </event>
+  <event index="59" type="windowforgroundevent" time="129.60">
+    <title><![CDATA[멀티캠퍼스_모두의MySQL.pdf - Adobe Acrobat Reader (64-bit)]]></title>
+    <file-path><![CDATA[C:\Program Files\Adobe\Acrobat DC\Acrobat\Acrobat.exe]]></file-path>
+  </event>
+  <event index="60" type="windowmousewheel" time="131.40">
+    <title><![CDATA[멀티캠퍼스_모두의MySQL.pdf - Adobe Acrobat Reader (64-bit)]]></title>
+    <file-path><![CDATA[C:\Program Files\Adobe\Acrobat DC\Acrobat\Acrobat.exe]]></file-path>
+  </event>
+  <event index="61" type="windowmousewheel" time="131.47">
+    <title><![CDATA[멀티캠퍼스_모두의MySQL.pdf - Adobe Acrobat Reader (64-bit)]]></title>
+    <file-path><![CDATA[C:\Program Files\Adobe\Acrobat DC\Acrobat\Acrobat.exe]]></file-path>
+  </event>
+  <event index="62" type="windowmousewheel" time="131.53">
+    <title><![CDATA[멀티캠퍼스_모두의MySQL.pdf - Adobe Acrobat Reader (64-bit)]]></title>
+    <file-path><![CDATA[C:\Program Files\Adobe\Acrobat DC\Acrobat\Acrobat.exe]]></file-path>
+  </event>
+  <event index="63" type="windowmousewheel" time="132.40">
+    <title><![CDATA[멀티캠퍼스_모두의MySQL.pdf - Adobe Acrobat Reader (64-bit)]]></title>
+    <file-path><![CDATA[C:\Program Files\Adobe\Acrobat DC\Acrobat\Acrobat.exe]]></file-path>
+  </event>
+  <event index="64" type="windowcapturestart" time="145.80">
+    <title><![CDATA[멀티캠퍼스_모두의MySQL.pdf - Adobe Acrobat Reader (64-bit)]]></title>
+    <file-path><![CDATA[C:\Program Files\Adobe\Acrobat DC\Acrobat\Acrobat.exe]]></file-path>
+  </event>
+  <event index="65" type="windowcaptureend" time="145.93">
+    <title><![CDATA[멀티캠퍼스_모두의MySQL.pdf - Adobe Acrobat Reader (64-bit)]]></title>
+    <file-path><![CDATA[C:\Program Files\Adobe\Acrobat DC\Acrobat\Acrobat.exe]]></file-path>
+  </event>
+  <event index="66" type="windowcapturestart" time="153.47">
+    <title><![CDATA[멀티캠퍼스_모두의MySQL.pdf - Adobe Acrobat Reader (64-bit)]]></title>
+    <file-path><![CDATA[C:\Program Files\Adobe\Acrobat DC\Acrobat\Acrobat.exe]]></file-path>
+  </event>
+  <event index="67" type="windowcaptureend" time="153.67">
+    <title><![CDATA[멀티캠퍼스_모두의MySQL.pdf - Adobe Acrobat Reader (64-bit)]]></title>
+    <file-path><![CDATA[C:\Program Files\Adobe\Acrobat DC\Acrobat\Acrobat.exe]]></file-path>
+  </event>
+  <event index="68" type="windowforgroundevent" time="153.67">
+    <title><![CDATA[MySQL Workbench]]></title>
+    <file-path><![CDATA[C:\Config.Msi\9bf1bb.rbf]]></file-path>
+  </event>
+  <event index="69" type="windowcapturestart" time="154.93">
+    <title><![CDATA[MySQL Workbench]]></title>
+    <file-path><![CDATA[C:\Config.Msi\9bf1bb.rbf]]></file-path>
+  </event>
+  <event index="70" type="windowcaptureend" time="155.07">
+    <title><![CDATA[MySQL Workbench]]></title>
+    <file-path><![CDATA[C:\Config.Msi\9bf1bb.rbf]]></file-path>
+  </event>
+  <event index="71" type="windowcapturestart" time="155.40">
+    <title><![CDATA[MySQL Workbench]]></title>
+    <file-path><![CDATA[C:\Config.Msi\9bf1bb.rbf]]></file-path>
+  </event>
+  <event index="72" type="windowcaptureend" time="155.47">
+    <title><![CDATA[MySQL Workbench]]></title>
+    <file-path><![CDATA[C:\Config.Msi\9bf1bb.rbf]]></file-path>
+  </event>
+  <event index="73" type="windowcapturestart" time="157.27">
+    <title><![CDATA[MySQL Workbench]]></title>
+    <file-path><![CDATA[C:\Config.Msi\9bf1bb.rbf]]></file-path>
+  </event>
+  <event index="74" type="windowcaptureend" time="157.33">
+    <title><![CDATA[MySQL Workbench]]></title>
+    <file-path><![CDATA[C:\Config.Msi\9bf1bb.rbf]]></file-path>
+  </event>
+  <event index="75" type="windowcapturestart" time="158.07">
+    <title><![CDATA[MySQL Workbench]]></title>
+    <file-path><![CDATA[C:\Config.Msi\9bf1bb.rbf]]></file-path>
+  </event>
+  <event index="76" type="windowcaptureend" time="158.20">
+    <title><![CDATA[MySQL Workbench]]></title>
+    <file-path><![CDATA[C:\Config.Msi\9bf1bb.rbf]]></file-path>
+  </event>
+  <event index="77" type="windowcapturestart" time="158.73">
+    <title><![CDATA[MySQL Workbench]]></title>
+    <file-path><![CDATA[C:\Config.Msi\9bf1bb.rbf]]></file-path>
+  </event>
+  <event index="78" type="windowcaptureend" time="158.87">
+    <title><![CDATA[MySQL Workbench]]></title>
+    <file-path><![CDATA[C:\Config.Msi\9bf1bb.rbf]]></file-path>
+  </event>
+  <event index="79" type="windowmousewheel" time="159.67">
+    <title><![CDATA[MySQL Workbench]]></title>
+    <file-path><![CDATA[C:\Config.Msi\9bf1bb.rbf]]></file-path>
+  </event>
+  <event index="80" type="windowmousewheel" time="160.27">
+    <title><![CDATA[MySQL Workbench]]></title>
+    <file-path><![CDATA[C:\Config.Msi\9bf1bb.rbf]]></file-path>
+  </event>
+</event-list>

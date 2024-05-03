@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<producing_info version="0.1">
+  <device_settings>
+    <camera>
+      <use_camera>false</use_camera>
+      <device_name>c922 Pro Stream Webcam</device_name>
+      <device_format_description>640 x 480 @ 30fps(5 - 30) YUY2</device_format_description>
+    </camera>
+    <audio>
+      <device_name>마이크(RODE NT-USB)</device_name>
+      <device_format_description>44100 stereo PCM</device_format_description>
+      <use_pc_sound_mixing>true</use_pc_sound_mixing>
+    </audio>
+  </device_settings>
+  <encoding_profile>
+    <video_screen>
+      <bitrate>1504</bitrate>
+      <frame_rate>15</frame_rate>
+      <advanced>
+        <h264_profile>Main</h264_profile>
+        <h264_level>Level4_1</h264_level>
+        <rate_control>CBR</rate_control>
+        <quality>85</quality>
+      </advanced>
+    </video_screen>
+    <video_camera>
+      <bitrate>1500</bitrate>
+      <frame_rate>15</frame_rate>
+      <advanced>
+        <h264_profile>Main</h264_profile>
+        <h264_level>Level4_1</h264_level>
+        <rate_control>CBR</rate_control>
+        <quality>85</quality>
+      </advanced>
+    </video_camera>
+    <audio>
+      <bitrate>96</bitrate>
+      <channel>Stereo</channel>
+      <sample_rate>44100</sample_rate>
+    </audio>
+  </encoding_profile>
+  <resource_list />
+</producing_info>
